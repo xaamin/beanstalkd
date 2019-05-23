@@ -2,4 +2,4 @@
 
 echo "Running beanstalkd"
 
-/usr/bin/beanstalkd
+/usr/bin/beanstalkd -b /var/lib/beanstalkd/
