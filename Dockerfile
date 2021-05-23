@@ -1,4 +1,4 @@
-FROM xaamin/ubuntu:18.04
+FROM xaamin/ubuntu:20.04
 MAINTAINER Benjamín Martínez Mateos <xaamin@outlook.com>
 
 # Install requeriments
